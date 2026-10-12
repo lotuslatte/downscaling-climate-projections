@@ -1,0 +1,7 @@
+NZ_domain
+NZ_domain/
+data-tutorial/
+*.zip
+models/
+code_carbon/
+.ipynb_checkpoints/
